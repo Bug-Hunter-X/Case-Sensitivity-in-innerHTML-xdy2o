@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to case sensitivity in JavaScript's interaction with HTML elements. The bug showcases how using 'innerHtml' instead of the correct 'innerHTML' leads to unexpected behavior. The solution demonstrates the correct usage of 'innerHTML' to properly modify the content of an HTML element.
